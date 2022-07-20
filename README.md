@@ -3,7 +3,7 @@
 
 
 <p><strong>Hi, I'm Paige!</strong></p>
-<p>I'm a computer science student currently making my way through The Odin Project curriculum, and work as a teaching assistant at Girls Who Code for their Summer Immersion Program.</p>
+<p>I'm a computer science student currently making my way through The Odin Project curriculum, and working as a teaching assistant at Girls Who Code for their Summer Immersion Program.</p>
 
 
 <!---
