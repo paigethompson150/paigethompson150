@@ -2,8 +2,8 @@
 <img width="300" alt="cute frog with mushroom hat" src="https://i.etsystatic.com/23664421/r/il/422092/3041215647/il_fullxfull.3041215647_5y7j.jpg">
 
 
-<p><strong>Hi, I'm Paige!</strong></p>
-<p>I'm a computer science student currently making my way through The Odin Project curriculum, and working as a teaching assistant at Girls Who Code.</p>
+<h1>Hi, I'm Paige!</h1>
+<p>I'm a computer science student at <strong>Simmons University</strong> and currently making my way through <strong>The Odin Project</strong> curriculum. I'm also working as a teaching assistant at <strong>Girls Who Code!</strong></p>
 </div>
 
 <!---
