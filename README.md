@@ -7,18 +7,20 @@
 </div>
 
 <div align="left">
-<h2>Currently Learning:</h2>
-<ul>
-  <li>ES6 Modules</li>
-  <li>Webpacks</li>
-  <li>JSON</li>
-  <li>Jest</li>
-</ul>
+  <h2>Currently Learning:</h2>
+  <ul>
+    <li>ES6 Modules</li>
+    <li>Webpacks</li>
+    <li>JSON</li>
+    <li>Jest</li>
+  </ul>
 
-<h2>Recent Projects:</h2>
-<a href="https://github.com/paigethompson150/browser-tic-tac-toe">Browser Tic-Tac-Toe</a>
-<a href="https://github.com/paigethompson150/library">Virtual Book Tracker</a>
-<a href="https://github.com/paigethompson150/admin-dashboard">Admin Dashboard</a>
+  <h2>Recent Projects:</h2>
+  <ul style="list-style-type: none">
+    <li><a href="https://github.com/paigethompson150/browser-tic-tac-toe">Browser Tic-Tac-Toe</a></li>
+    <li><a href="https://github.com/paigethompson150/library">Virtual Book Tracker</a></li>
+    <li><a href="https://github.com/paigethompson150/admin-dashboard">Admin Dashboard</a></li>
+  </ul>
 </div>
 
 <!---
