@@ -3,7 +3,7 @@
 
 
 <h1>Hi, I'm Paige!</h1>
-<p>I'm a computer science student at <strong>Simmons University</strong> and <br>currently making my way through <strong>The Odin Project</strong> curriculum. <br>In my free time I like <strong>weightlifting, dungeons & dragons and playing the guitar!</strong></p>
+<p>I'm a computer science student at <strong>Simmons University</strong> and <br>currently making my way through <strong>The Odin Project</strong> curriculum. <br>In my free time I like <strong>weightlifting, dungeons & dragons</strong> and <strong>learning the guitar!</strong></p>
 </div>
 
 <div align="left">
