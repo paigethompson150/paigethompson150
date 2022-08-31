@@ -17,9 +17,9 @@
 
   <h2>Recent Projects:</h2>
   <ul style="list-style-type: none">
-    <li><a href="https://github.com/paigethompson150/browser-tic-tac-toe">Browser Tic-Tac-Toe</a></li>
+    <li><a href="https://github.com/paigethompson150/weather-app">Weather App</a></li>
+    <li><a href="https://github.com/paigethompson150/webpack_practice">Restaurant Page</a></li>
     <li><a href="https://github.com/paigethompson150/library">Virtual Book Tracker</a></li>
-    <li><a href="https://github.com/paigethompson150/admin-dashboard">Admin Dashboard</a></li>
   </ul>
 </div>
 
