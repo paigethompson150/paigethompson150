@@ -9,9 +9,8 @@
 <div align="left">
   <h2>Currently Learning:</h2>
   <ul>
-    <li>ES6 Modules</li>
-    <li>Webpacks</li>
-    <li>JSON</li>
+    <li>How to use APIs</li>
+    <li>Data strucures & Algorithms</li>
     <li>Jest</li>
   </ul>
 
