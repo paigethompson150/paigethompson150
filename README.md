@@ -3,7 +3,7 @@
 
 
 <h1>Hi, I'm Paige!</h1>
-<p>I'm a computer science student at <strong>Simmons University</strong> and <br>currently making my way through <strong>The Odin Project</strong> curriculum, and CodePath's iOS Mobile Development Course. <br>In my free time I like <strong>weightlifting, dungeons & dragons</strong> and <strong>learning the guitar!</strong></p>
+<p>I'm a computer science student at <strong>Simmons University</strong> - outside of school, <br> I'm making my way through <strong>The Odin Project</strong> curriculum, and <strong>CodePath's</strong> 10-week iOS Mobile Development Course. My Github is a collection of my personal projects I've created through self-learning, so feel free to take a look!
 </div>
 
 <div align="left">
