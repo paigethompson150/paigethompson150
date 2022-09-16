@@ -9,7 +9,7 @@
 <div align="left">
   <h2>Currently Learning:</h2>
   <ul>
-    <li>How to use APIs</li>
+    <li>iOS Development</li>
     <li>Data strucures & Algorithms</li>
     <li>Jest</li>
   </ul>
