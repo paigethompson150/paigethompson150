@@ -3,20 +3,19 @@
 
 
 <h1>Hi, I'm Paige!</h1>
-<p>I'm a computer science student at <strong>Simmons University</strong> - outside of school, <br> I'm making my way through <strong>The Odin Project</strong> curriculum,<br> and <strong>CodePath's</strong> 10-week iOS Mobile Development Course. <br> Feel free to take a look around!
+<p>I'm a computer science student at <strong>Simmons University</strong> - outside of school, <br> I'm making my way through <strong>The Odin Project</strong> curriculum.<br> Feel free to take a look around!
 </div>
 
 <div align="left">
   <h2>Currently Learning:</h2>
   <ul>
     <li>iOS Development</li>
-    <li>Data strucures & Algorithms</li>
-    <li>Jest</li>
+    <li>React</li>
   </ul>
 
   <h2>Recent Projects:</h2>
   <ul style="list-style-type: none">
-    <li><a href="https://github.com/paigethompson150/weather-app">Weather App</a></li>
+    <li><a href="https://github.com/paigethompson150/GameNight">GameNight</a></li>
     <li><a href="https://github.com/paigethompson150/webpack_practice">Restaurant Page</a></li>
     <li><a href="https://github.com/paigethompson150/library">Virtual Book Tracker</a></li>
   </ul>
