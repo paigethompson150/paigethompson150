@@ -11,13 +11,7 @@
   <ul>
     <li>iOS Development</li>
     <li>React</li>
-  </ul>
-
-  <h2>Recent Projects:</h2>
-  <ul style="list-style-type: none">
-    <li><a href="https://github.com/paigethompson150/GameNight">GameNight</a></li>
-    <li><a href="https://github.com/paigethompson150/webpack_practice">Restaurant Page</a></li>
-    <li><a href="https://github.com/paigethompson150/library">Virtual Book Tracker</a></li>
+    <li>Three.JS</li>
   </ul>
 </div>
 
