@@ -9,7 +9,7 @@
 <div align="left">
   <h2>Currently Learning:</h2>
   <ul>
-    <li>iOS Development</li>
+    <li>UX Design</li>
     <li>React</li>
     <li>Three.JS</li>
   </ul>
