@@ -3,7 +3,7 @@
 
 
 <h1>Hi, I'm Paige!</h1>
-<p>I'm a computer science student at <strong>Simmons University</strong> - outside of school, <br> I'm making my way through <strong>The Odin Project</strong> curriculum.<br> Feel free to take a look around!
+<p>I'm a computer science student at <strong>Simmons University</strong><br> Feel free to take a look around!
 </div>
 
 <div align="left">
