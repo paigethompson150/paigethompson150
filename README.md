@@ -10,7 +10,6 @@ I like <strong>web & mobile development.</strong><br>Feel free to take a look ar
 <div align="left">
   <h2>Currently Learning:</h2>
   <ul>
-    <li>UX Design</li>
     <li>React</li>
     <li>Three.JS</li>
   </ul>
