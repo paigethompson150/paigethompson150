@@ -1,17 +1,13 @@
 <div align="center">
-<img width="300" alt="cute frog with mushroom hat" src="https://i.etsystatic.com/23664421/r/il/422092/3041215647/il_fullxfull.3041215647_5y7j.jpg">
-
-
-<h1>Hi, I'm Paige!</h1>
-<p>I'm a computer science student at <strong>Simmons University.</strong><br> 
-I like <strong>web & mobile development.</strong><br>Feel free to take a look around!
-</div>
-
 <div align="left">
-  <h2>Currently Learning:</h2>
+  <h2>Currently working on:</h2>
   <ul>
-    <li>React</li>
+    <li>PaperPlane</li>
+  </ul>
+  <h2>On the List to Learn:</h2>
+  <ul>
     <li>Three.JS</li>
+    <li>C/C++</li>
   </ul>
 </div>
 
