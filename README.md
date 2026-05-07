@@ -2,7 +2,7 @@
 <div align="left">
   <h2>Currently working on:</h2>
   <ul>
-    [<li>PaperPlane: Anonymous Kindness</li>](https://apps.apple.com/us/app/paperplane-anonymous-kindness/id6748971428)
+    <li>[PaperPlane: Anonymous Kindness](https://apps.apple.com/us/app/paperplane-anonymous-kindness/id6748971428)</li>(
   </ul>
   <h2>On the List to Learn:</h2>
   <ul>
